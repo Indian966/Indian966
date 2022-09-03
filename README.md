@@ -1,4 +1,6 @@
-### Hi there 👋
+# Backend Junior Engineer 김민규
+- contact : rlaalsrb4175@naver.com
+
 
 <!--
 **Indian966/Indian966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
