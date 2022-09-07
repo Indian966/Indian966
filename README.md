@@ -1,6 +1,6 @@
 # Backend Junior Engineer 김민규
-- contact : rlaalsrb4175@naver.com
-
+- Contact : rlaalsrb4175@naver.com
+- Tech Stack : Python, Django, Flask, Beautifulsoup, AWS EC2
 
 <!--
 **Indian966/Indian966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
