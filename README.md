@@ -1,7 +1,7 @@
 ### 파이썬을 Backend 개발자  
 # Backend Junior Engineer 김민규
 - Contact : rlaalsrb4175@naver.com
-- Tech Stack : Python, Django, Flask, Beautifulsoup, AWS EC2
+- Tech Stack : Python, Django, Flask, Beautifulsoup, AWS EC2, JS, Dicom
 
 <!--
 **Indian966/Indian966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
