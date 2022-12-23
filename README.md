@@ -1,4 +1,4 @@
-### 파이썬을 Backend 개발자  
+### 파이썬 Backend 개발자  
 # Backend Junior Engineer 김민규
 - Contact : rlaalsrb4175@naver.com
 - Tech Stack : Python, Django, Flask, Beautifulsoup, AWS EC2, JS, Dicom
